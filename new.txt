@@ -2,7 +2,7 @@
 # Problem using backtracking
 
 global N
-N = 4
+N = 5
 
 
 def printSolution(board):
